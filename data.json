@@ -1,0 +1,69 @@
+
+
+{
+"students" :[{"name": "sarmin akter",
+   " age":34,
+    "skill":"MERN stack"
+    },
+   
+    {"name": "jakaria islam",
+    "age":33,
+    "skill":"Laravel"
+    },
+    {"name": "kayes ahmed",
+   "age":30,
+    "skill":"Django"
+    },
+    {"name": "sonia akter",
+    "age":28,
+    "skill":"Golan"
+    },
+    {"name": "sadia afrin",
+    "age":32,
+    "skill":"Wordpress"
+    },
+    {"name": "anisul islam",
+    "age":35,
+    "skill":"java"
+    }
+],
+"teachers" :[{"name": "Asraful Hoque",
+    " age":35,
+     "id":111
+     },
+    
+     {"name": "Nazrul Islam",
+     "age":40,
+     "id":112
+     },
+     {"name": "Fazlul Hoque",
+    "age":38,
+     "idl":113
+     },
+     {"name": "Afsana Khan",
+     "age":32,
+     "id":114
+     },
+     {"name": "Nasrin islam",
+     "age":42,
+     "idl":115
+     },
+     {"name": "Rafiqul Hasan",
+     "age":45,
+     "id":116
+     }
+ ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
